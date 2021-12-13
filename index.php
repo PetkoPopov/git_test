@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         echo "hello";
+        echo "<hr>";
+        echo "GOOD JOB";
         ?>
     </body>
 </html>
