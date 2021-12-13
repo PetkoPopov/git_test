@@ -11,10 +11,11 @@ and open the template in the editor.
         <link rel="stylesheet" href="decoration.css"/>
     </head>
     <body>
+        <div id="showNumber"></div>
         <?php
-        $name ="MItko";
-        echo "hello i am $name";
+       
        
         ?>
+        <script src="countRandomNumber.js"></script>
     </body>
 </html>
