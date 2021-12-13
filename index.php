@@ -13,5 +13,6 @@ and open the template in the editor.
         <?php
         echo "hello";
         ?>
+        <script src="myJavaScript.js"></script>
     </body>
 </html>
