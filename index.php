@@ -12,7 +12,13 @@ and open the template in the editor.
     <body>
         <?php
         echo "hello";
-       echo "Karlovo";
+        $petko = 32456;
+        ?>
+        <a><?=$petko?></a><?php
+       
+       ?>
+        <p></p>
+        <?php
         echo "Karlovo_22";
         ?>
     </body>
