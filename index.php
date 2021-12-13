@@ -7,13 +7,14 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title> MITKO </title>
+        <link rel="stylesheet" href="decoration.css"/>
     </head>
     <body>
         <?php
-        echo "hello";
-       echo "Karlovo";
-        echo "Karlovo_22";
+        $name ="MItko";
+        echo "hello i am $name";
+       
         ?>
     </body>
 </html>
