@@ -12,10 +12,7 @@ and open the template in the editor.
     </head>
     <body>
         <div id="showNumber"></div>
-        <?php
-       
-       
-        ?>
+        <button id="newGame" onclick="myclicks">new game</button>
         <script src="countRandomNumber.js"></script>
     </body>
 </html>
